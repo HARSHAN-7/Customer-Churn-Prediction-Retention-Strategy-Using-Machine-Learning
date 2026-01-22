@@ -1,9 +1,9 @@
- Customer Churn Prediction & Retention Strategy Using Machine Learning
+Customer Churn Prediction & Retention Strategy Using Machine Learning
  Project Overview
 
 Customer churn is a critical challenge for businesses, directly impacting revenue and growth. This project focuses on building an end-to-end machine learning solution to predict customer churn by analyzing customer demographic, behavioral, and transactional data. The goal is to identify customers who are likely to leave and provide data-driven retention strategies to improve customer loyalty and lifetime value.
 
-🎯 Objectives
+Objectives
 
 Predict customer churn using machine learning classification models
 
@@ -13,7 +13,7 @@ Evaluate and compare multiple models for optimal performance
 
 Provide actionable retention strategies based on analytical insights
 
-📁 Dataset
+Dataset
 
 Contains customer demographics, usage patterns, and service-related attributes
 
@@ -21,7 +21,7 @@ Includes a binary churn indicator (Yes / No) as the target variable
 
 Preprocessed to handle missing values, outliers, and categorical variables
 
-🛠️ Technologies & Tools
+Technologies & Tools
 
 Programming Language: Python
 
@@ -37,7 +37,7 @@ XGBoost / Gradient Boosting
 
 Evaluation Metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC
 
-📈 Methodology
+Methodology
 
 Data Cleaning & Preprocessing
 
@@ -69,7 +69,7 @@ Identified high-risk customer segments
 
 Proposed targeted retention strategies based on model insights
 
-💡 Key Insights
+Key Insights
 
 Customers with low engagement and high service issues are more likely to churn
 
@@ -77,7 +77,7 @@ Contract type and tenure significantly impact churn probability
 
 Personalized offers and proactive customer support can reduce churn
 
-🚀 Business Impact
+Business Impact
 
 Enables proactive identification of at-risk customers
 
@@ -85,7 +85,7 @@ Helps businesses reduce customer acquisition costs
 
 Improves customer retention and long-term revenue
 
-📌 Future Enhancements
+Future Enhancements
 
 Deploy model using Flask / FastAPI
 
@@ -93,7 +93,7 @@ Integrate real-time churn prediction dashboard
 
 Perform hyperparameter tuning for improved accuracy
 
-👤 Author
+Author
 
 Harshan R
 Aspiring Data Analyst 
